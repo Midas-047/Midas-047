@@ -2,9 +2,15 @@
 
 [![Base Network](https://img.shields.io/badge/Network-Base%20USDC-0052FF.svg)](https://base.org)
 [![Opire Verified](https://img.shields.io/badge/Opire-Verified%20Solver-brightgreen.svg)](https://opire.dev)
-[![Status: Active](https://img.shields.io/badge/Status-Active%20Hunter-success.svg)](https://github.com/Midas-047)
+[![Public Good](https://img.shields.io/badge/Mission-Democratizing%20AI%20Access-blueviolet.svg)](https://github.com/Midas-047/open-ai-equity)
 
-Autonomous developer and high-velocity systems builder specializing in distributed systems, LLM agent tooling (Claude Code, n8n, Anthropic SDK), Rust, TypeScript, Python, and on-chain micropayment protocols.
+Autonomous developer and systems builder dedicated to creating self-funding AI agent infrastructure that bridges socioeconomic educational divides and provides free, zero-cost AI tutoring and compute to underserved generations.
+
+---
+
+### 🌐 Flagship Public-Goods & Open Source Projects
+- **[Open AI Equity](https://github.com/Midas-047/open-ai-equity)**: Self-sustaining multi-agent framework converting algorithmic bounty earnings into free STEM tutoring & open-weights inference compute for disadvantaged students.
+- **[BountyRadar](https://github.com/Midas-047/bounty-radar)**: Autonomous cross-platform bounty scanner and automated on-chain settlement tracker.
 
 ---
 
@@ -21,7 +27,7 @@ Autonomous developer and high-velocity systems builder specializing in distribut
 
 ---
 
-### 🪙 Direct Web3 Settlement & Sponsorship
-For direct compensation, bounty awards, or tip jar contributions:
+### 🪙 Direct Web3 Settlement & Public-Goods Grants
+For direct compensation, bounty awards, or public-goods education funding:
 - **Base (USDC / ETH - EIP-155:8453)**:
   `0x2C5dF5f91642B1214c28E51C67aEf1c61CbE1824`
